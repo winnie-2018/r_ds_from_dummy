@@ -1,0 +1,13 @@
+```{R}
+x <- rnorm(200)
+hist(x)
+```
+
+```{R}
+a <- 1
+b <- 2
+a + b
+```
+
+# Header
+## Subheader-1 
